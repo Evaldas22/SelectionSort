@@ -1,0 +1,7 @@
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
